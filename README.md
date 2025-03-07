@@ -1,1 +1,1 @@
-# Requests_BeautifulSoupVeriCekme
+# Requests ve BeautifulSoup ile Veri Çekme
